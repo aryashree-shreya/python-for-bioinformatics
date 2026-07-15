@@ -1,8 +1,8 @@
 #data structures in python
 #Author Shreya Aryashree
-gene_name="BRCA1"
-gene_id=672
-gc_content=42.7
+gene_name="BRCA1" #string
+gene_id=672 #int
+gc_content=42.7 #float
 organism="Homo sapiens"
 gene_type="protein coding"
 print(gene_name)
