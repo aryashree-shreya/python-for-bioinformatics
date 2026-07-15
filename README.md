@@ -1,6 +1,6 @@
 # python-for-bioinformatics
-Learning python and applying it to real world
-This documents my journey of learning python and applying it to biology fundamentald.
+
+This documents my journey of learning python and applying it to biology fundamentals.
 ## Objectives
 Learn python fundamentals
 <br>
